@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Instituições Religiosas de Huambo",
+  "description": "Sistema de Gestão Online (S.G.O.) para centralização, cadastro, consulta, atualização e relatórios das instituições religiosas da província do Huambo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
